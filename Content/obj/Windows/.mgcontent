@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/GoombaSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/CoinSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/FlowerSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/MushroomSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/StarSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/SuperMushroomSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/UpMushroomSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/BrickBlockSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/QuestionBlockSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/RockBlockSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/StairBlockSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/UsedBlockSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/Fireball.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/ItemSheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/background.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/blackBackground.jpg</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/smallbrick.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/Mariosheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/turtle_sheet2.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/mario_sheet_star.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/lPipe.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/LPipeBottom.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/LPipeBottomLeft.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/LPipeTop.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/LPipeTopLeft.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/pipe_sheet.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/pipes.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_1-up.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_breakblock.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_bump.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_coin.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_gameover.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_jump-small.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_jump-super.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_mariodying.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_pipe.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_powerup.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_powerupApp.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_stomp.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_warning.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/TitleImage.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/File.spritefont</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_overworld.mp3</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_starmario.mp3</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/castle.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/outside_scenery.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/turtle_sheet_3.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/flagpole.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/flags.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_underground.mp3</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/Piranha Plants.png</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_gameComplete.wav</File>
+    <File>D:/OSU/AU2017/CSE3902/Mario/Game/FlugelMario/Content/v_flag.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
